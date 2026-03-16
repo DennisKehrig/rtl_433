@@ -307,7 +307,7 @@
     DECL(thermopro_tp211b) \
     DECL(tpms_trw_ook) \
     DECL(tpms_trw_fsk) \
-    DECL(tuya_wsd024w433) \
+    DECL(shenzhen_wale_wl_th6r) \
 
     /* Add new decoders here. */
 
