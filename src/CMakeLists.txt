@@ -235,6 +235,7 @@ add_library(r_433 STATIC
     devices/secplus_v1.c
     devices/secplus_v2.c
     devices/sharp_spc775.c
+    devices/shenzhen_wale_wl_th6r.c
     devices/silvercrest.c
     devices/simplisafe.c
     devices/simplisafe_gen3.c
@@ -288,7 +289,6 @@ add_library(r_433 STATIC
     devices/tpms_tyreguard400.c
     devices/ts_ft002.c
     devices/ttx201.c
-    devices/tuya_wsd024w433.c
     devices/universalfanctrl.c
     devices/vaillant_vrt340f.c
     devices/vauno_en8822c.c
